@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murad Mohammed.
 - 👀 I’m interested in becoming Software Developer.
 - 🌱 I’m currently learning Software Development at Green River College.
-- 💞️ I’m looking to collaborate on landing entrepreneurship.
+- 💞️ I’m looking to collaborate on landing internship.
 - 📫 How to reach me on my email feesisa21@gmail.com.
 
 <!---
