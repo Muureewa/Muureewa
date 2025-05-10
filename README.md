@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Murad Mohammed.
-- 👀 I’m interested in playing Soccer, going to the GYM, Travelling, Reading, Hanging out with family/freinds and playing video games(especially FIFA). 
-- 🌱 I’m currently Studying Software Engineering at Green River College.
-- 💞️ I’m looking to collaborate with people who's studying same major as me and i'm also very intrested in internship.
-- 📫 You can reach me on my personel email feesisa21@gmail.com or School email Mohammed.Murad@student.greenriver.edu.
+👋 Hi, I’m Murad Mohammed.  
+👀 I’m into soccer, going to the gym, traveling, reading, spending time with friends and family, and playing video games (especially FIFA).  
+🌱 I’m currently studying Software Engineering at Green River College.  
+💼 I’m open to internships and would love to connect with others in the same field.  
+📫 Feel free to reach out at:  
+   - Personal: feesisa21@gmail.com  
+   - School: Mohammed.Murad@student.greenriver.edu  
 
 <!---
 Muureewa/Muureewa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
